@@ -1,0 +1,6 @@
+function n_von = von_mises(sx, sy, sxy,ky)
+    p = tensoes_principais(sx, sy, sxy);
+    o = sqrt(p(3).^ 2 - p(2)*p(3) + p(2).^ 2);
+    n_von = ky/o;
+endfunction
+    

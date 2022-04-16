@@ -1,0 +1,5 @@
+function [ixy, iyz, izx] = deformacoes_i(sxy, syz, szx, G)
+	ixy = (1/G)*sxy;
+	iyz = (1/G)*syz;
+	izx = (1/G)*szx;
+endfunction

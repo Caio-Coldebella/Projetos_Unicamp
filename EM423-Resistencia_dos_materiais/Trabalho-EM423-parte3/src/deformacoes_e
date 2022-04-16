@@ -1,0 +1,11 @@
+function [ex, ey, ez] = deformacoes_e(sx, sy, sz, E, G)
+	v = (E/(2*G))-1;
+	ex = (1/E)*(sx - v(sy + sz));
+	ey = (1/E)*(sy - v(sx + sz));
+	ez = (1/E)*(sz - v(sx + sy));
+endfunction
+	
+	
+	
+
+
