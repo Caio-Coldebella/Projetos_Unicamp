@@ -1,17 +1,17 @@
-# Projetos Unicamp
-Projetos desenvolvidos ao longo do curso de Engenharia de Computação na Unicamp (2019 - 2024)
+# Unicamp Projects
+Projects developed during my Computer Engineering course at Unicamp (2019 - 2024)
 
-## EA202 Engenharia de Software
-Ementa: Software e engenharia de software. Análise de sistemas computacionais. Análise de requisitos de software. Metodologias de análise de requisitos. Projeto de software: projeto preliminar e projeto detalhado. Metodologias de projeto de software. O paradigma da Orientação a Objetos. Projeto e desenvolvimento de sistemas complexos de software. Utilização de Frameworks e Bibliotecas
+## EA202 Engenharia de Software (Software Engineering)
+Syllabus: Software and software engineering. Analysis of computer systems. Software requirements analysis. Requirements analysis methodologies. Software design: preliminary design and detailed design. Software design methodologies. The Object Orientation paradigm. Design and development of complex software systems. Use of Frameworks and Libraries
 
-## EA614 - Análise de Sinais
-Ementa: Sinais contínuos e discretos. Sistemas lineares e invariantes no tempo. Análise de Fourier de sinais contínuos. Análise de Fourier de sinais discretos. Filtragem através de sistemas lineares e invariantes no tempo.  Amostragem de sinais. Aplicações.
+## EA614 - Análise de Sinais (Signals and System Analysis)
+Syllabus: Continuous and discrete signals. Linear and time-invariant systems. Fourier analysis of continuous signals. Fourier analysis of discrete signals. Filtering through linear and time-invariant systems. Signal sampling. Applications.
 
-## EA979 - Introdução à Computação Gráfica e ao Processamento de Imagem
-Ementa: Dispositivos de aquisição e exibição de imagens, arquitetura de sistemas gráficos interativos, transformações geométricas, transformação de visualização, calibração de câmeras, modelos de iluminação e tonalização, texturas, algoritmos de recorte, algoritmos de remoção de linhas/superfícies escondidas, algoritmos de rasterização, técnicas de antialiasing, representação de curvas e superfícies, operações aritméticas com imagem, técnicas de filtragem de imagem, algoritmos de realce, algoritmos de detecção de bordas, modelos de cor, transformação entre modelos de cor, algoritmos de quantização.
+## EA979 - Introdução à Computação Gráfica e ao Processamento de Imagem (Image Processing and CG)
+Syllabus: Image acquisition and display devices, architecture of interactive graphics systems, geometric transformations, visualization transformation, camera calibration, lighting and toning models, textures, cropping algorithms, hidden line/surface removal algorithms, rasterization, antialiasing techniques, representation of curves and surfaces, arithmetic operations with image, image filtering techniques, highlighting algorithms, edge detection algorithms, color models, transformation between color models, quantization algorithms.
 
-## EM423 Resistência dos Materiais
-Ementa: Noções sobre o material. Conceituação de tensões, solicitação axial. Cisalhamento puro. Torção em eixos circulares. Flexão pura, simples e oblíqua. Deflexão em vigas retas. Estado triplo de tensões e deformações. Círculo de Mohr. Cisalhamento puro. Estado hidrostático de tensões.
+## EM423 Resistência dos Materiais (Strength of materials)
+Syllabus: Understanding the material. Conceptualization of stresses, axial stress. Pure shear. Torsion on circular axes. Pure, simple and oblique flexion. Deflection in straight beams. Triple state of stresses and deformations. Mohr's circle. Pure shear. Hydrostatic state of tension.
 
-## MC322 Programação Orientada a Objetos
-Ementa: Conceitos básicos e avançados de programação orientada a objetos. Aplicação dos conceitos usando Java
+## MC322 Programação Orientada a Objetos (Object-Oriented Programming)
+Syllabus: Basic and advanced concepts of object-oriented programming. Application of concepts using Java
